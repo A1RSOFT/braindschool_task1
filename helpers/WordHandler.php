@@ -4,7 +4,6 @@
   
   class WordHandler
   {
-
     //Если в строке присутствует хотя бы одна буква или цифра - это слово, иначе - не слово.
     private static function isWord($str)
     {
